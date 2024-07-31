@@ -45,3 +45,24 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 ## 🤔 Dúvidas?
 
 Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+
+
+
+
+
+Resultados:
+![image](https://github.com/user-attachments/assets/d52d3558-b8d7-4390-a6c3-ab256f3fd887)
+
+
+![image](https://github.com/user-attachments/assets/84bc0023-6bd9-43dc-b59e-a09ae6e2c8cd)
+
+
+![image](https://github.com/user-attachments/assets/b3753f82-e869-4b95-8059-0325be2a9dce)
+
+
+![image](https://github.com/user-attachments/assets/ef731637-bc55-416c-bcf9-eb5872a6a3ef)
+
+
+
+
+
